@@ -7,3 +7,5 @@ triger 4
 trigger5
 triger 6
 triger 8
+triger 7
+triger8
